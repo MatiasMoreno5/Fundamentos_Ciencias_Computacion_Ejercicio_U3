@@ -2,11 +2,11 @@
 # Completar una línea por integrante.
 # Formato: Nombre completo | Rol | Interés en la materia
 
-1. ____________________ | ____________________ | ____________________
-2. ____________________ | ____________________ | ____________________
-3. ____________________ | ____________________ | ____________________
-4. ____________________ | ____________________ | ____________________
-5. ____________________ | ____________________ | ____________________
+1. Tomás Uriarte | Desarrollador | Confundido
+2. Marco Bartesaghi | Desarrollador | Mucho
+3. Joaquín Suárez | Auditor | Poco
+4. Juan De los santos | Integrador | Dudoso
+5. Matías Moreno | Desarrollador | Moderado
 
 # Roles sugeridos:
 # - Integrador/a
