@@ -9,6 +9,7 @@
 
 - `git add <archivo>`: prepara archivo para commit.
 - `git commit -m "mensaje"`: guarda un punto de avance.
+Y yo me llamo Tomas
 
 ## Sección C - Revisar historial y diferencias
 
